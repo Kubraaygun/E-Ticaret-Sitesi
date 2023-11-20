@@ -1,0 +1,4 @@
+<h1> E-Ticaret Sitesi </h1>
+
+JavaScript kullanarak hazırladığım bu proje bir e-ticaret sitesinin sepet yönetim işlevselliğini içerir. Fake Store API gibi harici kaynaklarla etkileşimde bulunarak ürünleri listeler, sepete ürün ekler, sepeti görüntüler, ürünleri siler ve toplam fiyatı hesaplar.
+
